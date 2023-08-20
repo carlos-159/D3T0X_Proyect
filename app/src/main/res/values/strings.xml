@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">D3T0X</string>
+    <string name="select">Seleciona Una Dificultad ...</string>
+    <string name="retop">RETO FACIL</string>
+    <string name="retoM">RETO NORMAL </string>
+    <string name="retoH">RETO DIFICIL </string>
+    <string name="desc">selecciona un boton para mas detalles</string>
+    <string name="det">• 5 dias de abstinencia </string>
+    <string name="det2">• No se agregan dias en caso de consumir</string>
+    <string name="det3">• No penalizacion </string>
+    //strings de el dialogo 2
+    <string name="dial2d1">• 15 Dias De Abstinencia </string>
+    <string name="dialog3_1">• 30 Dias De Abstinencia</string>
+    <string name="dialog3_2">• 1 Dia De Agaregado Por Recaida</string>
+    <string name="dialog3_3">• Penalizacion De Tiempo</string>
+
+</resources>
